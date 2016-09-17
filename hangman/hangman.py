@@ -2,7 +2,7 @@ import random
 
 '''
 Title: Command Line Hangman
-Authors: Neel Shah and Brannon McGraw
+Authors: Neel Shah and Brannon McGraw & Joseph Schiarizzi *wink*
 Version: 1.0
 
 Simple hangman where computer randomly selects a word and
